@@ -5,7 +5,7 @@ class App {
 
     public static void main(String[] args) {
 
-	System.out.println("\nHallo Welt 1\n"); 
+	System.out.println("\nHello World !\n"); 
     }
 }
   
